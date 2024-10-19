@@ -1,3 +1,6 @@
+//Nama: Muhammad Rizky Hadi Prawiro
+//NIM: 10302300090
+
 package main
 
 import (
